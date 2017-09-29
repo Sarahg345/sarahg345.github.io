@@ -1,0 +1,12 @@
+
+
+body {
+	background: lightblue;
+	color: black;
+	font-size: 14pt;
+	font-family: 'Bree Serif', serif;
+}
+
+a {color:purple;
+	text-decoration: underline;}
+a:hover {color:darkred}

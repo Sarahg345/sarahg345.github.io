@@ -1,0 +1,16 @@
+
+
+body {
+	background: Lightblue;
+	color: black;
+	font-size: 14pt;
+	font-family: 'Exo 2', sans-serif;
+	
+}
+h1 {font-size: 200%;
+	font-weight: bold;
+	color:purple;
+}
+a {color:purple;
+	text-decoration: underline;}
+a:hover {color:darkred}
